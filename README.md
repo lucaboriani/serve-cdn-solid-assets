@@ -24,7 +24,7 @@ to insert the name of the pod owner:
 
 `wrangler secret put POD_OWNER`
 
-and insert the name you 
+and insert the name you choose
 
 
 
