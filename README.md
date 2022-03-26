@@ -1,7 +1,7 @@
 # asset gateway on solid pod
 
 A variation of [this tutorial](https://developers.cloudflare.com/workers/tutorials/configure-your-cdn/)
-using inrupt's solid pod instead of google cloud :)
+using inrupt's solid pod instead of google cloud storage :)
 
 instruction:
 
