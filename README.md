@@ -5,7 +5,7 @@ using inrupt's solid pod instead of google cloud storage :)
 
 instruction:
 
-signup for a solid pod fillowing [these instructions] (https://docs.inrupt.com/pod-spaces/getting-started-pod-inrupt-com/)
+signup for a solid pod following [these instructions](https://docs.inrupt.com/pod-spaces/getting-started-pod-inrupt-com/)
 
 signup/login into cloudflare
 
