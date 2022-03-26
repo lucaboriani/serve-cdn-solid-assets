@@ -1,0 +1,11 @@
+name = "serve-cdn-solid-assets"
+type = "javascript"
+
+account_id = "8e90dde4fe2aa9f9cc6ed46ce97b4378"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2022-03-26"
+
+# [secrets]
+# POD_OWNER
